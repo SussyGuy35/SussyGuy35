@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **How to be lazy**
 
-- 📫 How to reach me **discord: nijika_ijichi (iambachnob#2645)**
+- 📫 How to reach me **discord: bashame.meme (iambachnob#2645)**
 
 - ⚡ Fun fact **I love Nijika Ijichi, she is the best girl in the world!**
 
