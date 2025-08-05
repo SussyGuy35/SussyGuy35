@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sussyguy35" alt="sussyguy35" /></a> </p>
 
-- 🔭 I’m currently working on [an fairly simple discord bot](https://github.com/SussyGuy35/open-susbot)
+- 🔭 I’m currently working on [a fairly simple discord bot](https://github.com/SussyGuy35/open-susbot)
 
 - 🌱 I’m currently learning **C++, Python, Lua, Gamemaker and Godot**
 
