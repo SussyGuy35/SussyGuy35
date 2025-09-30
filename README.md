@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SussyGuy35</h1>
-<h3 align="center">Just a random lazy high school student (not anymore) who loves making trash games</h3>
+<h3 align="center">Just a random lazy high school student (not anymore) who trying to learn how to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sussyguy35&label=Profile%20views&color=0e75b6&style=flat" alt="sussyguy35" /> </p>
 
