@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sussyguy35&label=Profile%20views&color=0e75b6&style=flat" alt="sussyguy35" /> </p>
 
-- 🔭 I’m currently working on [a fairly simple discord bot](https://github.com/SussyGuy35/open-susbot)
+- 🔭 I’m currently working on [an abomination](https://github.com/SussyGuy35/open-susbot)
 
 - 🌱 I’m currently learning **how to code properly**
 
 - 👨‍💻 All of my projects are available at [my github profile](https://github.com/SussyGuy35) and also [my itch.io page](https://bachnob.itch.io)!
 
-- 📫 How to reach me **discord: bashame.meme (iambachnob#2645)**
+- 📫 How to reach me **discord: leejika (iambachnob#2645)**
 
 - ⚡ Fun fact **I love Nijika Ijichi, she is the best girl in the world!**
 
